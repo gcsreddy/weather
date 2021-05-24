@@ -1,5 +1,6 @@
 # weather
 endpoint to get weather info using latitude and longitude
+
 server using http4s, cats
 
 cd into project folder
